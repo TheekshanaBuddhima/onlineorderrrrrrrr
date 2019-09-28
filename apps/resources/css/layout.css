@@ -1,0 +1,45 @@
+
+div#main{
+    width: 100%;
+    
+}
+
+div#header{
+    height: 75px;
+    background-color: #375566;
+    padding-top: 15px;
+    
+}
+
+div#navi{
+    height: 50px;
+    
+}
+
+div#content{
+    min-height: 400px;
+}
+div#footer{
+    height: 50px;text-align: center;
+    
+}
+
+.heading1{
+    color: #fff; font-size: 30px; font-weight: bold;
+    text-align: center;
+}
+
+.hea1{ font-size: 26px; color:#fff;}
+.prof{text-align: right;padding-right: 10px; color: #fff}
+
+a.signout{color:#fff}
+
+.pad1{padding-top: 20px}
+.pad2{padding-left: 10px}
+.list1{
+    list-style-type: none;
+    
+ }
+ .list1 li{padding-bottom: 5px}
+ 
+ 
